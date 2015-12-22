@@ -19,7 +19,7 @@ This app allows you to view networks in your area and connect to them.
 ###Windows Advanced Install Instructions
 
 1. Install Node.js: [nodejs.org](http://nodejs.org)
-2. Download this repo, unzip it, and go to it in the command line
+2. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the command line
 3. Download dependencies: `npm install`
 4. Run the app: `npm start`
 
@@ -28,7 +28,7 @@ This app allows you to view networks in your area and connect to them.
 ###OSX Install Instructions
 
 1. Install Node.js: [nodejs.org](http://nodejs.org)
-2. Download this repo, unzip it, and go to it in the terminal
+2. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the terminal
 3. Download dependencies: `npm install`
 4. Run the app: `npm start`
 
@@ -36,7 +36,7 @@ This app allows you to view networks in your area and connect to them.
 
 ###Ubuntu Install Instructions
 
-1. Download this repo, unzip it, and go to it in the terminal.
+1. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the terminal.
 2. Install Node.js: `sudo apt-get install nodejs`
 3. Install NPM: `sudo apt-get install npm`
 4. Create a symbolic link for node `sudo ln -s /usr/bin/nodejs /usr/bin/node`
