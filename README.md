@@ -10,7 +10,7 @@ This app allows you to view networks in your area and connect to them.
 
 ###Windows Easy Install Instructions
 
-1. Download the latest release
+1. Download the [latest release](https://github.com/TheJaredWilcurt/UGUI-Wifi/releases/download/v1.0.0/UGUI-Wifi-1.0.0-win.zip)
 2. Unzip it.
 3. Open it and run `UGUI-Wifi.exe`
 
