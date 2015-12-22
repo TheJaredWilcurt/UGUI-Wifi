@@ -73,8 +73,8 @@ function runApp() {
             "ssid": ssid,
             "password": ugui.args.password.value
         };
-console.log(accessPoint);
-        //WiFiControl.connectToAP( accessPoint );
+
+        WiFiControl.connectToAP( accessPoint );
 
     });
 
