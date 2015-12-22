@@ -65,6 +65,7 @@ Will accept pull requests for new features.
 **People**
 
 * [The Jared Wilcurt](http://github.com/TheJaredWilcurt) - Creator/Maintainer
+* [Martz90](http://martz90.deviantart.com) - App Icon Design
 
 **Technology**
 
