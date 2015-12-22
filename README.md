@@ -4,7 +4,7 @@
 
 This app allows you to view networks in your area and connect to them.
 
-<p align="center"><img src="http://i.imgur.com/kgLdUkz.png" alt="Screenshot of UGUI: Wifi" /></p>
+<p align="center"><img src="http://i.imgur.com/SPRZbZj.png" alt="Screenshot of UGUI: Wifi" /></p>
 
 * * *
 
