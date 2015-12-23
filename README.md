@@ -1,7 +1,7 @@
 [![Join the chat at https://gitter.im/UniversalGUI/UGUI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UniversalGUI/UGUI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Community forums at ugui.reddit.com](http://ugui.io/_img/badge-reddit.svg)](http://reddit.com/r/UGUI)
 
-<img src="_img/logo.png" alt="logo" align="left" height="50" />
-##UGUI: Wifi
+<img src="_img/logo.png" alt="logo" align="left" height="140" />
+#UGUI: Wifi
 
 This app allows you to view networks in your area and connect to them.
 
