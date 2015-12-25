@@ -59,6 +59,16 @@ Will accept pull requests for new features.
 
 1. This might not work on Linux Mint, but I only officially support Ubuntu 12 and 14 anyways.
 
+* * * 
+
+###Supported Platforms
+
+* Windows Vista, 7, 8, 8.1, 10-  Should work on XP, but not officially supported
+* OSX 10.7 and above
+* Ubuntu 12 and 14 (LTS) - Ubuntu 10 should work, and some other Linux distros may as well but aren't officially supported
+
+Verified to work on Windows 7 and OSX 10.11.
+
 * * *
 
 ###Credits
