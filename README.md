@@ -1,7 +1,7 @@
 [![Join the chat at https://gitter.im/UniversalGUI/UGUI](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/UniversalGUI/UGUI?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Community forums at ugui.reddit.com](http://ugui.io/_img/badge-reddit.svg)](http://reddit.com/r/UGUI)
 
 <img src="_img/logo.png" alt="logo" align="left" height="140" />
-#UGUI: Wifi
+# UGUI: Wifi
 
 This app allows you to view networks in your area and connect to them.
 
@@ -9,7 +9,7 @@ This app allows you to view networks in your area and connect to them.
 
 * * *
 
-###Windows Easy Install Instructions
+### Windows Easy Install Instructions
 
 1. Download the [latest release](https://github.com/TheJaredWilcurt/UGUI-Wifi/releases/download/v1.0.0/UGUI-Wifi-1.0.0-win.zip)
 2. Unzip it.
@@ -17,7 +17,7 @@ This app allows you to view networks in your area and connect to them.
 
 * * *
 
-###Windows Advanced Install Instructions
+### Windows Advanced Install Instructions
 
 1. Install Node.js: [nodejs.org](http://nodejs.org)
 2. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the command line
@@ -26,7 +26,7 @@ This app allows you to view networks in your area and connect to them.
 
 * * *
 
-###OSX Install Instructions
+### OSX Install Instructions
 
 1. Install Node.js: [nodejs.org](http://nodejs.org)
 2. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the terminal
@@ -35,7 +35,7 @@ This app allows you to view networks in your area and connect to them.
 
 * * *
 
-###Ubuntu Install Instructions
+### Ubuntu Install Instructions
 
 1. Download [this repo](https://github.com/TheJaredWilcurt/UGUI-Wifi/archive/master.zip), unzip it, and go to it in the terminal.
 2. Install Node.js: `sudo apt-get install nodejs`
@@ -46,7 +46,7 @@ This app allows you to view networks in your area and connect to them.
 
 * * *
 
-###Project Roadmap
+### Project Roadmap
 
 1. Maybe add in a refresh button for the list?
 2. Currently we are listing all access points, but we only connect to an SSID, even if there are multiple networks there. This process could potentially be improved.
@@ -55,13 +55,13 @@ Will accept pull requests for new features.
 
 * * *
 
-###Known Issues
+### Known Issues
 
 1. This might not work on Linux Mint.
 
 * * * 
 
-###Supported Platforms
+### Supported Platforms
 
 * Windows XP+
 * OSX 10.6+
@@ -71,7 +71,7 @@ Verified to work on Windows 7 and OSX 10.11.
 
 * * *
 
-###Credits
+### Credits
 
 **People**
 
@@ -82,9 +82,9 @@ Verified to work on Windows 7 and OSX 10.11.
 
 * [wifi-control-node](https://github.com/msolters/wifi-control-node) - The heart of this app.
 * [NW.JS](http://nwjs.io) - The foundation of UGUI! Special thanks to [Roger Wang](https://github.com/rogerwang).
- * [IO.JS](http://iojs.org)
- * [Chromium](http://www.chromium.org)
- * [V8](https://code.google.com/p/v8)
+  * [IO.JS](http://iojs.org)
+  * [Chromium](http://www.chromium.org)
+  * [V8](https://code.google.com/p/v8)
 * [jQuery](http://jquery.com)
 * [Twitter Bootstrap](http://getbootstrap.com)
 * [Bootswatch](http://bootswatch.com)
